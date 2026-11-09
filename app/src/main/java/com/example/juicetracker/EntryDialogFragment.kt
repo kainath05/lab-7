@@ -1,4 +1,3 @@
-
 package com.example.juicetracker
 
 import android.os.Bundle
